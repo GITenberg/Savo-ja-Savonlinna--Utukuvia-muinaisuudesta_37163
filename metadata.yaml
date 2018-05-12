@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8325
     wikipedia: http://fi.wikipedia.org/wiki/Yrj%C3%B6_Sakari_Yrj%C3%B6-Koskinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37163#Savo-ja-Savonlinna--Utukuvia-muinaisuudesta
 gutenberg_issued: '2011-08-22'
 gutenberg_type: Text
 identifiers:
