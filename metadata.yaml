@@ -1,0 +1,34 @@
+_repo: Savo-ja-Savonlinna--Utukuvia-muinaisuudesta_37163
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yrjö-Koskinen, Yrjö Sakari
+    aliases:
+    - Forsman, Georg Zacharias
+    - Yrjo-Koskinen, Yrjo Sakari
+    - Koskinen, Yrjö Sakari
+    birthdate: 1830
+    deathdate: 1903
+    gutenberg_agent_id: '8325'
+    url: http://www.gutenberg.org/2009/agents/8325
+    wikipedia: http://fi.wikipedia.org/wiki/Yrj%C3%B6_Sakari_Yrj%C3%B6-Koskinen
+description: ''
+gutenberg_issued: '2011-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37163'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish literature'
+tableOfContents: Savon synty -- Olavin linnan synty -- Savonlinnan ihmeet -- Pohjois-Savon
+  ajatus -- Karjalan valloitus ja Nuija-meteli -- Rauhallinen vuosisata Savossa --
+  Kaksi vihan-aikaa -- Kustaa III ja Yrjö Maunu Sprengtporten -- Uusi aika.
+title: 'Savo ja Savonlinna: Utukuvia muinaisuudesta'
+url: http://www.gutenberg.org/ebooks/37163
